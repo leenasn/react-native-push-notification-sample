@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+.expo-source/
+npm-debug.*
+yarn-error.log
+**/build/
+**/xcuserdata/**
